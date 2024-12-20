@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Introduction
-| Hello! I have eight years of programming experience. I'm passionate about coding and cycling. I'm also a bit crazy in the coconut |
+| Hello! I have eight years of programming experience. I'm passionate about coding and cycling. Let's ride |
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
