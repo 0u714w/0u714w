@@ -1,4 +1,4 @@
-## my name is what
+## outlaw 🐧
 
 ## Introduction
 Hello! I have eight years of programming experience. Let's work together |
