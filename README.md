@@ -15,8 +15,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Highlights
-- Advent of Code
 - Surfy
+- Connections
 
 ## Contact
 - Email: douglassenas@gmail.com
