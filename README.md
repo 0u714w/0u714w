@@ -1,4 +1,4 @@
-## Hi there 👋 my name is doug
+## my name is what
 
 ## Introduction
 Hello! I have eight years of programming experience. Let's work together |
