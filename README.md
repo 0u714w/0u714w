@@ -1,7 +1,7 @@
 ## outlaw 🐧
 
 ## Introduction
-Hello! I have eight years of programming experience. Let's work together |
+Former dairy farmer turned software engineer with over 4 years of experience building web applications and back-end services. 
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
