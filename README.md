@@ -1,4 +1,4 @@
-## outlaw 🐧
+## outlaw 
 
 ## Introduction
 Former dairy farmer turned software engineer with over 4 years of experience building web applications and back-end services. 
@@ -15,6 +15,7 @@ Former dairy farmer turned software engineer with over 4 years of experience bui
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Highlights
+- Bikeaid
 - Surfy
 - Connections
 
