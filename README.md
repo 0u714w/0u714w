@@ -15,6 +15,7 @@ Former dairy farmer turned software engineer with a few years of experience buil
 ## Highlights
 - bikeaid
 - Surfy
+- song-exhibit
 
 ## Contact
 - Email: douglassenas@gmail.com
